@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/logo.png" alt="DeepSeek Plugin for CPAMC" width="220" />
+</p>
+
 # 🐋 DeepSeek Plugin for CLI PROXY API CONSOLE (CPAMC)
 
 [![Ecosistema](https://img.shields.io/badge/Ecosistema-CPAMC%20%7C%20Gentle--Shell%20%7C%20Auto--Switcher--Pro-purple?style=flat-square)](#)
